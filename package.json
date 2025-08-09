@@ -1,0 +1,16 @@
+{
+  "name": "poolvilla_admin_seed_reupload",
+  "version": "0.11.1",
+  "description": "PoolVilla - Simple prototype",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
